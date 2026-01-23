@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer with hands-on experience building responsive and user-focused web applications using React.js, JavaScript, HTML, and CSS. I
+I am a Frontend Developer with hands-on experience building responsive and user-focused web applications using React.js, JavaScript, HTML, and CSS. 
 
 
 ## 🌐 Socials:
