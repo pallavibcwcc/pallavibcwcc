@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer with hands-on experience building responsive and user-focused web applications using React.js, JavaScript, HTML, and CSS. 
+Working as a Software Developer with prior internship experience, I have developed a strong foundation in the WEB DEVELOPMENT and successfully completed several projects.<br> Actively seeking an SDE role, I bring excellent communication skills, strong team dynamics, and a positive attitude toward constructive criticism to drive continuous improvement
 
 
 ## 🌐 Socials:
