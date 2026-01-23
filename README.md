@@ -1,6 +1,6 @@
 # 💫 About Me:
 Working as a Software Developer with prior internship experience, I have developed a strong foundation in Web Development and have successfully completed several projects.
-<br> Actively seeking an SDE role, I bring excellent communication skills, strong team dynamics, and a positive attitude toward constructive criticism to drive continuous improvement<br> 
+<br> I bring excellent communication skills, strong team dynamics, and a positive attitude toward constructive criticism to drive continuous improvement<br> 
 Portfolio Link:-https://melodious-frangollo-5ca727.netlify.app/
 
 ## 🌐 Socials:
